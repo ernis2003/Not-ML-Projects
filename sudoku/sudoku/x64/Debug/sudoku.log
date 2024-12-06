@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\readingClass.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\sudokuClass.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\sudokuClass.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\main.cpp(13,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\main.cpp(13,36): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  readingClass.cpp
+C:\Users\Ern\Desktop\Projects\abc\sudoku\sudoku\readingClass.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  sudoku.vcxproj -> C:\Users\Ern\Desktop\Projects\abc\sudoku\x64\Debug\sudoku.exe
